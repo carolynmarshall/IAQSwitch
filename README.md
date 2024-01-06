@@ -1,5 +1,5 @@
 # IAQSwitch
-This is a simple weekend or classroom project to build a switch that can toggle power to an air filter in response to Co2 readings.
+This is a simple weekend or classroom project to build a switch that can toggle power to an air filter in response to Co2 readings. Lower threhsholds can be used to detect occupancy. Higher thresholds may be better for louder filters or to preserve power.
 
 Both the [UiFlow](https://flow.m5stack.com/) (Blockly) and generated MicroPython files are included. Could be used for learning about IAQ or early programming/robotics.
 
